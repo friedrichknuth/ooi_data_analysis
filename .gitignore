@@ -1,0 +1,7 @@
+# exclude everything
+output/*
+products/*
+sandbox/*
+data/*
+deep_learning/*
+ipynb_checkpoints/*
