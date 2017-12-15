@@ -1,7 +1,8 @@
 # exclude everything
-output/*
-products/*
-sandbox/*
+**/output/*
+**/products/*
+**/sandbox/*
+**/*checkpoint.ipynb
 data/*
 deep_learning/*
 ipynb_checkpoints/*
