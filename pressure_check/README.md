@@ -5,9 +5,8 @@ Reference Redmine Ticket: [12180](https://redmine.oceanobservatories.org/issues/
 #### Affected Instruments
 
 The table below lists the reference designator, serial number and asset UID of affected instruments, 
-along with the start date of the impacted deployment. A link is provided to the notebook
-that was used to calulated the offset, the offset itself, and a link to the cal sheet where the offset
-has been applied.
+along with the start date of the impacted deployment and the calcualted offset. Links are provided to the notebooks
+that were used to calulated the offsets adn to the calibration sheets where the offset is applied. 
 
 | Reference Designator        | Deployment | Start      | Serial Number | Asset UID         | Notebook | Offset   | Cal Sheet |
 | --------------------------- |:----------:| ----------:| -------------:| -----------------:| -------:| --------:| ---------:|
