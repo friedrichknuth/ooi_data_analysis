@@ -7,3 +7,4 @@ data/*
 deep_learning/*
 ipynb_checkpoints/*
 pressure_check/output/*
+bottom_pressure_tilt/data/min_data/*
