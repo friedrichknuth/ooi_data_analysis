@@ -1,5 +1,5 @@
 # exclude everything
-**/output/*
+**/outputs/*
 **/products/*
 **/sandbox/*
 **/*checkpoint.ipynb
@@ -8,3 +8,5 @@ deep_learning/*
 ipynb_checkpoints/*
 pressure_check/output/*
 bottom_pressure_tilt/data/min_data/*
+/qc_values/dev/*
+***/*checkpoint.ipynb
